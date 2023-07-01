@@ -1,0 +1,10 @@
+127.0.0.1 - - [29/Mar/2023:18:46:29 +0700] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:39 +0700] "GET /quanlysinhvien/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:39 +0700] "GET /quanlysinhvien/login HTTP/1.1" 200 3027
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:39 +0700] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:46 +0700] "POST /quanlysinhvien/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:46 +0700] "GET /quanlysinhvien/menu.jsp HTTP/1.1" 200 978
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:50 +0700] "GET /quanlysinhvien/menu?action=khoa HTTP/1.1" 200 4025
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:53 +0700] "GET /quanlysinhvien/menu?action=capNhapKhoa&ID_Khoa=CNTT HTTP/1.1" 200 4779
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:55 +0700] "GET /quanlysinhvien/menu?action=chuyenNganh&ID_Khoa=CNTT HTTP/1.1" 200 5914
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:18:46:58 +0700] "GET /quanlysinhvien/menu?action=SV&ID_Lop=20CN5&Ten_ChuyenNganh=C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin HTTP/1.1" 200 3990
